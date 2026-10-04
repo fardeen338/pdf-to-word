@@ -1,0 +1,7 @@
+name = "pdf-to-word"
+main = ""
+compatibility_date = "2024-09-23"
+
+[assets]
+directory = "./"
+binding = "ASSETS"
